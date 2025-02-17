@@ -1,6 +1,6 @@
 # 📷 Pixoria  
 
-**A beautiful and user-friendly image discovery platform, just like Unsplash! Find high-quality images effortlessly.**  
+**A beautiful and user-friendly image discovery platform. Find high-quality images effortlessly.**  
 
 ## ✨ Features  
 - 🔍 Search and explore stunning images  
