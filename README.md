@@ -20,6 +20,6 @@
    ```
 2. Navigate to the project directory:  
    ```bash
-   cd Pixoria
+   cd Pixoria/ImageFinder
    ```
 3. Open `index.html` in your browser.  
